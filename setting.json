@@ -1,0 +1,40 @@
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "editor.fontFamily": "Monaco, Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 0,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vetur.format.defaultFormatter.ts": "vscode-typescript",
+    "search.followSymlinks": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "breadcrumbs.enabled": true,
+    "element-helper.version": "2.5",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": false
+}
